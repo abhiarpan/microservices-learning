@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: Eureka-demo-service-Registry
+server:
+  port: 8761

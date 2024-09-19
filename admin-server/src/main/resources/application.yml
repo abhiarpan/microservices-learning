@@ -1,0 +1,5 @@
+pring:
+  application:
+    name: admin-server
+server:
+  port: 8111
