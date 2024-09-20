@@ -691,6 +691,3 @@ java.util.concurrent.TimeoutException
 
 !ENTRY org.springframework.tooling.boot.ls 1 0 2024-09-20 04:17:05.512
 !MESSAGE Classpath changed for project: spring-sec
-
-!ENTRY org.springframework.tooling.boot.ls 1 0 2024-09-20 04:43:08.923
-!MESSAGE Classpath changed for project: spring-sec
