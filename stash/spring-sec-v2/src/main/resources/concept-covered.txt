@@ -1,0 +1,2 @@
+covered basic spring security-> to generate password
+csrf-token-> to perform add,update,delete operation
